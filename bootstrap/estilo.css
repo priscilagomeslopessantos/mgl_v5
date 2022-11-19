@@ -1,0 +1,10 @@
+.card-img-top
+{
+transition: all 0.5s;
+cursor: pointer;
+}
+.card-img-top:hover
+{
+-webkit-transform: scale(1.5);
+transform: scale(1.5);
+}
